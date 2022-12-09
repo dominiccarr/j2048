@@ -1,3 +1,4 @@
+package game;
 import java.util.Iterator;
 
 public class GridIterator implements Iterable<Square>, Iterator<Square> {
